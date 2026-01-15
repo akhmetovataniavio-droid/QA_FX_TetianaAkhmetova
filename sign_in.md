@@ -1,4 +1,4 @@
-1. Користувач входить до системи з даними, введеними під час реєстрації
-2. Підтвердження електронної пошти, яка вже збережена в базі даних
-3. Пароль відповідає даним, введеним під час реєстрації
-4. Перенаправлення на сторінку реєстрації
+1. User Log in to system with data entered while registration
+2. Email validation which is already retained in database
+3. Password matches to data entered while registration
+4. Redirection to Sign Up page
